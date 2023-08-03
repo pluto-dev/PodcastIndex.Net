@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastIndex.Net", "src\Pod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodcastIndex.Tests", "test\PodcastIndex.Tests\PodcastIndex.Tests.csproj", "{6E2CA243-388B-4E36-A51A-35CC86138F41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConsoleProject", "src\SampleConsoleProject\SampleConsoleProject.csproj", "{C85C1764-ADB3-4F05-9683-DE13B736771D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6E2CA243-388B-4E36-A51A-35CC86138F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E2CA243-388B-4E36-A51A-35CC86138F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E2CA243-388B-4E36-A51A-35CC86138F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85C1764-ADB3-4F05-9683-DE13B736771D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85C1764-ADB3-4F05-9683-DE13B736771D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85C1764-ADB3-4F05-9683-DE13B736771D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85C1764-ADB3-4F05-9683-DE13B736771D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
