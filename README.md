@@ -121,12 +121,10 @@ Currently there is no nuget packet available.
 | /recent/data          | ✅ |
 | /recent/soundbites    | ✅ |
 
-
 | **Value**        |   |
 |------------------|---|
 | /value/byfeedid  | ✅ |
 | /value/byfeedurl | ✅ |
-
 
 | **Stats**       |   |
 |-----------------|---|
